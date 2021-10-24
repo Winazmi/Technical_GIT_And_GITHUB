@@ -3,7 +3,7 @@ git clone https://github.com/Winazmi/Technical_GIT_And_GITHUB.git
 git branch winazmi
 git checkout winazmi
 touch winazmi.md
-printf("Nama Lengkap: Win azmi \nUmur: 20 \nPesan yang ingin disampaikan: Pingin istirahat\n") > zulfiqarfauzulakbar.md
+printf("Nama Lengkap: Win azmi \nUmur: 20 \nPesan yang ingin disampaikan: Pingin istirahat\n") > winazmi.md
 git add winazmi.md
 git commit -m "winazmi.md"
 git checkout master
